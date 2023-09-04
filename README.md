@@ -3,9 +3,12 @@ Many licenses for open-source software are either too permissive or too restrict
 ## tl;dr
 When you use the Bok Choy License, you allow anyone to use your software in any way. They can only distribute your software for free. If they make changes to the software, they can sell it. Your software is attributed in any distribution, whether or not it's free.
 ## Use
-
+Include the LICENSE.md file with your software, or include the text of the file.  
+The Bok Choy license applies to all unmodified distributions of your software. Modified distributions are not necessarily bound by this license.
 ## License
-```Bok Choy General Software License
+This software is licensed under the Bok Choy General Software License. The full text of the license should be included below. If not, more information can be found at https://www.rockwill.dev/Bok-Choy-License/.
+```
+Bok Choy General Software License
 
 Copyright (c) [year] [fullname]
 
